@@ -8,5 +8,6 @@ namespace NewTechApp
 {
     public class Class1
     {
+        //это какие-то изменения
     }
 }
